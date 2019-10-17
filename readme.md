@@ -1,6 +1,6 @@
-#Universal installer for package managers
+# Universal installer for package managers
 
-##Usage
+## Usage
 Example to install package "ruvents/yii" via php packet manager composer
 ```bash
 require php ruvents/yii
@@ -9,7 +9,7 @@ Example to install package "react-native-android-version" via yarn
 ```bash
 require js react-native-android-version
 ```
-##Configuration
+## Configuration
 Config file is config.cfg which have ini notation.
 Ini section is language. 
 Params: 
@@ -28,5 +28,5 @@ Usage:
 require phprm ruvents/yii
 ```
 
-##FAQ
+## FAQ
 * Why ada? Just for fun &copy;
